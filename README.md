@@ -5,6 +5,7 @@
 - Backcountry Skiier ⛷️
 - Mountaineer ⛰️
 - Shamisen Player 🎸
+- Long-distance Runner 🏃
 
 ## Connect with me
 
