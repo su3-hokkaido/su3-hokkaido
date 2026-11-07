@@ -49,6 +49,7 @@
 
 ### Certifications ([Credly](https://www.credly.com/users/su3-hokkaido/badges))
 
+- Professional Scrum Master™ - AI Essentials (2026)
 - Professional Scrum Master™ I (2026)
 - Microsoft Certified: Azure AI Fundamentals (2025)
 - AWS Certified Machine Learning - Specialty (2025)
